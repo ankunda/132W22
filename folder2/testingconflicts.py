@@ -2,6 +2,7 @@ def function1():
     print("just some nonsense")
 
 def function2():
+    print ("changing function 2")
     pass
 
 def function3():
