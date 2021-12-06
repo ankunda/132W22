@@ -2,7 +2,7 @@ def function1():
     print("just some nonsense")
 
 def function2():
-    print("some other nonsense")
+    print("some new nonsense")
 
 def function3():
     pass
